@@ -15,6 +15,11 @@
 根据本指南，可制作出类似下述效果的文案改前改后对比样式：
 [Update ReviseCase1.md · ishanshan/example@2cdbb7f]( https://github.com/ishanshan/example/commit/2cdbb7f06a76722e634ea88f548f87cc01b3748c?diff=split )
 
+工具准备：
+- MarkDown 编辑器，最好是显示行号的，比如 Atom 等
+- 有读写权限的 GitHub 仓库
+- GitHub 客户端
+
 操作步骤：
 1. 复制本文档模板
 2. 把“改前文案”贴在上述对应的“改前文案”占位符处
@@ -28,4 +33,4 @@
 
 ## CHANGELOG 
 
--191109 闪闪创建
+- 191109 闪闪创建
